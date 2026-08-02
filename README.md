@@ -1,148 +1,199 @@
-<h2 align="left">
-Hi 👋! I'm <b>Riya Sehgal</b>, a Final Year BCA Student, Machine Learning Enthusiast and Software Developer from India 🇮🇳
-</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyasehgal-codes&show_icons=true&theme=dracula&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyasehgal-codes&layout=compact&theme=dracula" height="160"/>
+
+# Hi 👋, I'm Riya Sehgal
+
+### Final Year BCA Student • Machine Learning Enthusiast • Software Developer 🇮🇳
+
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=riyasehgal-codes.riyasehgal-codes" alt="Visitor Badge"/>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/riya-sehgal-161838290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/riyasehgal-codes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/riyalityy/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="mailto:riyasehgalcodes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
-###
+---
 
-<img align="right" height="180" src="https://i.imgflip.com/65efzo.gif"/>
+<div align="center">
 
-<h3>👩‍💻 About Me</h3>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=riyasehgal-codes&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=riyasehgal-codes&theme=dracula"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyasehgal-codes&layout=compact&theme=dracula"/>
+
+</div>
+
+---
+
+<img align="right" height="220" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+## 👩‍💻 About Me
 
 - 🎓 Final Year BCA Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 💻 Interested in Software Development and Data Analytics
-- 🌱 Currently learning **Machine Learning, Software Development, RAG and DSA**
-- 🧩 Solved **200+ DSA & SQL problems on LeetCode**
-- 🚀 Always building projects and learning something new
+- 🤖 Passionate about **Machine Learning, Artificial Intelligence & Software Development**
+- 💡 Interested in building practical AI applications and data-driven solutions
+- 🌱 Currently learning:
+  - Machine Learning
+  - Software Development
+  - Retrieval-Augmented Generation (RAG)
+  - Data Structures & Algorithms
+- 🚀 Building projects in AI/ML, Data Analytics and Full Stack Development
+- 🎯 Aspiring Machine Learning Engineer & Software Engineer
 
 > **Fun Fact:** Once I made LeetCode a hobby instead of a task, it became much easier to stay consistent.
 
-###
+<br clear="right"/>
 
-<h3>🛠 Tech Stack</h3>
+---
 
-<h4>Languages</h4>
+# 🛠 Tech Stack
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-</div>
+### 💻 Languages
 
-###
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,mysql"/>
+</p>
 
-<h4>ML & Data Analysis</h4>
+---
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="35"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="35"/>
-</div>
+### 🤖 ML & Data Analysis
 
-###
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask"/>
 
-<h4>Web Technologies</h4>
+<br><br>
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-</div>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
-###
+---
 
-<h4>Databases</h4>
+### 🌐 Web Technologies
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35"/>
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+</p>
 
-###
+---
 
-<h4>Tools & Platforms</h4>
+### 🗄️ Databases
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35"/>
-<img width="12"/>
-<img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="35"/>
-<img width="12"/>
-<img src="https://img.icons8.com/color/48/power-bi.png" height="35"/>
-<img width="12"/>
-<img src="https://img.icons8.com/color/48/tableau-software.png" height="35"/>
-<img width="12"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="35"/>
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite"/>
+</p>
 
-###
+---
 
-<h3>🚀 Featured Projects</h3>
+### ⚙️ Tools & Platforms
 
-- 🤖 Customer Churn Prediction App
-- 🛡️ Fraud Detection System
-- 📊 Retail Sales Dashboard (Power BI)
-- 🧠 Multimodal RAG Project *(In Progress)*
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
 
-###
+<br><br>
 
-<h3>🌐 Connect with Me</h3>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-<div align="left">
+---
 
-<a href="https://www.linkedin.com/in/riya-sehgal-161838290/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+# 🧩 Data Structures & Algorithms
 
-<a href="https://leetcode.com/u/riyalityy/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+✔️ **Solved 200+ DSA & SQL problems on LeetCode**
 
-<a href="https://github.com/riyasehgal-codes">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### Topics Covered
 
-<a href="mailto:riyasehgalcodes@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+- Sliding Window
+- Backtracking
+- Binary Search
+- Dynamic Programming
+- Bit Manipulation
+- Monotonic Stack
+- Greedy Algorithms
+- Linked Lists
+- Trees
+- Graphs
+- Recursion
+- Hashing
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 Customer Churn Prediction
+Machine Learning model with an interactive Streamlit interface for churn prediction.
+
+### 🛡️ Fraud Detection System
+ML-powered fraud detection pipeline with a user-friendly web application.
+
+### 📊 Retail Sales Dashboard
+Interactive Power BI dashboard using Power Query and DAX for business insights.
+
+### 🧠 Multimodal RAG Project *(Currently Building)*
+Retrieval-Augmented Generation system combining multiple data modalities.
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyasehgal-codes&theme=dracula"/>
 
 </div>
 
-###
+---
 
-<br clear="both">
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=riyasehgal-codes&theme=dracula&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
-###
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting!
+
+*"Always learning, always building, one project at a time."*
+
+Feel free to connect with me or collaborate on exciting projects! 🚀
+
+</div>
