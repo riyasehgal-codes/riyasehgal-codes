@@ -1,18 +1,234 @@
-# 💫 About Me:
-Hi! My name is Riya, a data scientist and an AI/ML enthusiast, improving daily 1%
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+###
+
+<div align="center">
+  <a href="[https://www.linkedin.com/in/riya-sehgal-161838290/]>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/riyasehgal-codes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+<a href="[https://leetcode.com/u/riyalityy/]">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+  <a href="mailto:riyasehgalcodes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=riyasehgal-codes.riyasehgal-codes" />
+</div>
+
+###
+
+<h1 align="center">Hey there 👋 I'm Riya Sehgal</h1>
+
+<h3 align="center"> Machine Learning Enthusiast • Software Developer • BCA Student</h3>
+
+###
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">
+
+🎓 BCA Student (Final Year)
+
+💻 Passionate about Artificial Intelligence, Machine Learning and Software Development
+
+🌱 Currently learning
+- Machine Learning
+- Software Development
+- Retrieval-Augmented Generation (RAG)
+- Data Structures & Algorithms
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riya-sehgal-161838290/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/riyasehgalcodes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riyasehgalcodes@gmail.com) 
+⚡ Fun fact:
+Once i made LeetCode a hobby instead of a task, it was much easier to be consistent with it
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riyasehgal-codes&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=riyasehgal-codes&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riyasehgal-codes&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=riyasehgal-codes&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
+<h3 align="left">🛠 Languages & Tools</h3>
+
+<h4>Languages</h4>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+</p>
+
+<h4>ML & Data Analysis</h4>
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40"/>
+
+</p>
+
+<h4>Web Technologies</h4>
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+
+</p>
+
+<h4>Databases</h4>
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+
+</p>
+
+<h4>Tools & Platforms</h4>
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+<img width="12"/>
+
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40"/>
+<img width="12"/>
+
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
+<img width="12"/>
+
+<img src="https://img.icons8.com/color/48/tableau-software.png" height="40"/>
+<img width="12"/>
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
+
+</p>
+
+###
+
+<h3 align="left">🧩 Data Structures & Algorithms</h3>
+
+<p align="left">
+
+✔️ Solved **200+ DSA & SQL problems on LeetCode**
+
+Topics include:
+
+• Backtracking
+
+• Sliding Window
+
+• Greedy Algorithms
+
+• Bit Manipulation
+
+• Monotonic Stack
+
+• Linked Lists
+
+• Trees
+
+• Binary Search
+
+• Dynamic Programming
+
+</p>
+
+###
+
+<h3 align="left">🚀 Featured Projects</h3>
+
+- 🤖 Customer Churn Prediction App
+- 🛡️ Fraud Detection System
+- 📊 Retail Sales Dashboard (Power BI)
+- 🧠 Multimodal RAG Project *(In Progress)*
+
+###
+
+<h3 align="left">🔥 My GitHub Stats</h3>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=riyasehgal-codes&show_icons=true&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=riyasehgal-codes&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyasehgal-codes&layout=compact&theme=tokyonight"/>
+
+</div>
+
+###
+
+<h3 align="left">📈 Contribution Graph</h3>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riyasehgal-codes&theme=tokyo-night"/>
+
+</div>
+
+###
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=riyasehgal-codes&theme=tokyonight"/>
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
