@@ -2,12 +2,12 @@
 <tr>
 <td width="320" valign="top">
 
-<img src="<img width="736" height="736" alt="607774912255732965" src="https://github.com/user-attachments/assets/1d7ca1fc-2539-4b7b-b6b7-d497c6a7f6dd" />
+<img src=<img width="564" height="564" alt="Kitty" src="https://github.com/user-attachments/assets/108ee75c-e107-44ad-affc-b649042ca716" />
 
 
 <br/><br/>
 
-### Riya Sehgal
+### Hi! I am Riya Sehgal
 <br/>
 
 🎓 BCA, MSIT (GGSIPU), New Delhi
