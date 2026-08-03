@@ -40,11 +40,12 @@
 
 | | |
 |---|---|
-| **Languages** | Python, SQL, JavaScript, HTML/CSS |
-| **ML / Data** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
+| **Languages** | Python, C/C++, SQL, JavaScript, HTML/CSS |
+| **ML / Data** | NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Streamlit |
 | **Backend** | Flask |
 | **Databases** | MySQL, PostgreSQL, SQLite |
-| **Tools** | Git, GitHub, Tableau, Excel, Render |
+| **Tools** | Git, GitHub, Power BI, Tableau, MS Excel, Jupyter Notebook, VS Code, Google Colab |
+| **Core Concepts** | Machine Learning, Data Visualization, RAG pipelines, Artificial Intelligence | 
 
 #### 🚧 CURRENTLY WORKING ON
 
