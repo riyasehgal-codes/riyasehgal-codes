@@ -13,13 +13,14 @@
 🎓 BCA, MSIT (GGSIPU), New Delhi
 
 📍 Delhi, India
+
 ✉️ riyasehgalcodes@gmail.com
 
 </td>
 <td width="480" valign="top">
 
 ### Hi, I am Riya Sehgal
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟢
+
 
 | | |
 |---|---|
