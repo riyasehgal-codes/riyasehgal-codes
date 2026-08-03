@@ -14,7 +14,7 @@
 
 📍 Delhi, India
 
-✉️ riyasehgalcodes@gmail.com
+EMAIL:  riyasehgalcodes@gmail.com
 
 </td>
 <td width="480" valign="top">
