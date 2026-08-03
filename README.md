@@ -2,7 +2,8 @@
 <tr>
 <td width="320" valign="top">
 
-<img src="[https://share.google/8KO4ZzxhnrSVDavr6]" width="100%" alt="Profile photo"/>
+<img src="<img width="736" height="736" alt="607774912255732965" src="https://github.com/user-attachments/assets/1d7ca1fc-2539-4b7b-b6b7-d497c6a7f6dd" />
+" width="100%" alt="Profile photo"/>
 
 <br/><br/>
 
@@ -18,7 +19,7 @@
 </td>
 <td width="480" valign="top">
 
-### `[Riya@github](https://github.com/riyasehgal-codes)`
+### Riya Sehgal
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🟢
 
 | | |
