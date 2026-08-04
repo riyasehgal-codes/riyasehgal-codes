@@ -50,8 +50,8 @@ EMAIL:  riyasehgalcodes@gmail.com
 #### 🚧 CURRENTLY WORKING ON
 
 - multimodal RAG assistant
-- ML Engineer / MLOps career prep
-- MERN Stack
+- Machine Learning 
+- Backend Development
 
 
 
