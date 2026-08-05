@@ -51,7 +51,7 @@ EMAIL:  riyasehgalcodes@gmail.com
 
 - multimodal RAG assistant
 - Machine Learning 
-- Backend Development
+- MERN stack
 
 
 
