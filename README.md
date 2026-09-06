@@ -82,6 +82,17 @@
 <td><b>🎀 Social Media Lead</b></td>
 <td>TechSoc, MSIT</td>
 </tr>
+<tr>
+<td><b>💻 Summer Trainee </b></td>
+<td>CETPA Foundation X IBM </td>
+</tr>
+<tr>
+<td><b>🎀 AI/ ML Intern</b></td>
+<td>CodeTern</td>
+</tr>
+  <td><b>💻 Upcoming STAR Scholar </b></td>
+<td> SAP Labs, Bangalore </td>
+</tr>
 </table>
 
 <br>
@@ -100,8 +111,8 @@
 </tr>
 
 <tr>
-<td><b>Backend</b></td>
-<td>Flask · REST APIs</td>
+<td><b>Frontend and Backend</b></td>
+<td>Flask · React JS · REST APIs · Django · Streamlit </td>
 </tr>
 
 <tr>
@@ -111,12 +122,12 @@
 
 <tr>
 <td><b>Tools</b></td>
-<td>Git · GitHub · Power BI · Tableau · MS Excel · Jupyter · VS Code</td>
+<td>Git · GitHub · Power BI · Tableau · MS Excel · Jupyter · VS Code · google Colab </td>
 </tr>
 
 <tr>
 <td><b>Core Concepts</b></td>
-<td>Machine Learning · Data Visualization · RAG · AI · DSA · OOP · DBMS</td>
+<td>Machine Learning · Data Visualization · RAG · AI · DSA · OOP · DBMS · LLMs · Software Engineering and Testing </td>
 </tr>
 </table>
 
@@ -148,10 +159,6 @@
 <tr>
 <td>📊 <b>ChurnIQ</b></td>
 <td>Customer churn prediction dashboard</td>
-</tr>
-<tr>
-<td>📈 <b>Retail Analytics</b></td>
-<td>Power BI sales & business intelligence dashboard</td>
 </tr>
 </table>
 
