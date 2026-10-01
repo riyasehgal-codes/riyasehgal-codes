@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080000,30:240006,60:720018,85:c40035,100:ff3158&height=160&section=header&text=%E2%99%A5%20RIYA%20SEHGAL%20%E2%99%A5&fontSize=48&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12000b,25:3d001f,50:9c1652,75:f04b91,100:ffb6d9&height=170&section=header&text=%E2%99%A5%20RIYA%20SEHGAL%20%E2%99%A5&fontSize=47&fontColor=ffffff&animation=twinkling" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=27&duration=3000&pause=900&color=FF5272&center=true&vCenter=true&width=750&lines=hi%2C+I'm+Riya+Sehgal+%E2%99%A1;software+developer+in+progress+%E2%9C%A8;AI%2FML+%2B+backend+%2B+a+little+chaos+%F0%9F%8C%B7;building+things+I+wish+existed+%F0%9F%92%BB" />
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=26&duration=2800&pause=900&color=FF78B7&center=true&vCenter=true&width=760&lines=software+developer+%E2%99%A1;AI%2FML+%2B+full+stack+%E2%9C%A7;building+things+with+way+too+much+coffee;welcome+to+my+little+corner+of+the+internet+%E2%99%A5" />
 
 <br>
 
-<img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif" width="430"/>
+<img src="https://media.giphy.com/media/7FrOU9tPbgAZtxV5mb/giphy.gif" width="390"/>
 
 <br><br>
 
-`🩸` `✦` `★` `♡` `☠` `★` `✦` `🩸`
+`♡` `✦` `୨୧` `★` `✧` `♡` `୨୧` `✦` `♡`
 
 </div>
 
@@ -19,60 +19,71 @@
 <table>
 <tr>
 
-<td width="28%" valign="top">
+<td width="25%" valign="top">
 
 <div align="center">
 
-### 🩸 Riya.exe
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="175"/>
-
-**coding • coffee • chaos**
+### 🎀 RIYA.EXE
 
 <br>
 
-`STATUS: ONLINE`
+`coding • coffee • chaos`
+
+<br>
+
+💗 `STATUS: ONLINE`
+
+<br><br>
 
 </div>
 
 ---
 
-### ♡ about me
+### ♡ profile
 
-* 🎓 BCA @ MSI (GGSIPU)
-* 📍 Delhi, India
-* 💻 Software Developer Intern
-* 🎀 Social Media Lead @ TechSoc
-* 🧠 currently obsessed with AI/ML
-* 🌷 learning something new every day
+| | |
+|---|---|
+| 🎀 **Name** | Riya Sehgal |
+| 📍 **Location** | Delhi, India |
+| 🎓 **Education** | BCA @ MSI |
+| 📊 **CGPA** | 9.77 |
+| 💻 **Focus** | Full-Stack + AI/ML |
+
+---
+
+### ✿ currently
+
+| | |
+|---|---|
+| 🧠 | learning |
+| 💻 | building |
+| ☕ | caffeinated |
+| 🐈 | distracted |
+| 🌷 | always curious |
+
+---
+
+### 💌 find me
+
+| | |
+|---|---|
+| 📧 **EMAIL** | `riyasehgalcodes@gmail.com` |
+| 🐙 **GITHUB** | `@riyasehgal-code` |
 
 <br>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="170"/>
+`♡ ───────── ♡`
 
 </div>
-
----
-
-### ✿ find me
-
-**EMAIL**
-`riyasehgalcodes@gmail.com`
-
-**GITHUB**
-`@riyasehgal-codes`
-
-<br>
-
-🩸 ───────── 🩸
 
 </td>
 
-<td width="72%" valign="top">
 
-# 🔥 hi, i'm Riya ♡
+<td width="75%" valign="top">
+
+# 💗 hi, i'm Riya ♡
 
 > *building things, breaking things, fixing things... and pretending the bugs were intentional.*
 
@@ -80,164 +91,240 @@
 
 <table>
 <tr>
-<td><b>🎀 Handle</b></td>
-<td>@riyasehgal-codes</td>
+<td align="center">🎀</td>
+<td><b>WHO</b></td>
+<td>software developer in progress</td>
 </tr>
 
 <tr>
-<td><b>📍 Location</b></td>
+<td align="center">🌷</td>
+<td><b>WHERE</b></td>
 <td>Delhi, India</td>
 </tr>
 
 <tr>
-<td><b>🎓 Education</b></td>
-<td>BCA, MSI (GGSIPU) — Final Year · 9.77 CGPA</td>
+<td align="center">🎓</td>
+<td><b>STUDYING</b></td>
+<td>BCA @ MSI (GGSIPU)</td>
 </tr>
 
 <tr>
-<td><b>💗 Focus</b></td>
-<td>AI/ML · MLOps · Backend</td>
+<td align="center">📊</td>
+<td><b>CGPA</b></td>
+<td>9.77</td>
+</tr>
+
+<tr>
+<td align="center">💻</td>
+<td><b>FOCUS</b></td>
+<td>Full-Stack Development + AI/ML</td>
+</tr>
+
+<tr>
+<td align="center">🧠</td>
+<td><b>EXPLORING</b></td>
+<td>LLMs · RAG · Machine Learning</td>
 </tr>
 </table>
 
 <br>
 
-<div align="center">
+## 🌸 a little about me
 
-<img src="https://media.giphy.com/media/13HgwGsXF0j8Q/giphy.gif" width="260"/>
+I'm a BCA student who enjoys building things across the stack
+and experimenting with AI/ML.
 
-</div>
+I like **backend systems, machine learning, data, APIs, and
+pretty interfaces** — basically anything that gives me an excuse
+to open VS Code.
 
 <br>
 
-## 🩸 roles
+<table>
+<tr>
+<td align="center">
+
+`☕`
+
+<b>coffee</b>
+
+</td>
+
+<td align="center">
+
+`💻`
+
+<b>code</b>
+
+</td>
+
+<td align="center">
+
+`🧠`
+
+<b>learn</b>
+
+</td>
+
+<td align="center">
+
+`🐈`
+
+<b>cats</b>
+
+</td>
+
+<td align="center">
+
+`🔁`
+
+<b>repeat</b>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎀 roles & experiences
 
 <table>
 <tr>
-<td><b>💻 Software Developer Intern</b></td>
+<th>♡ role</th>
+<th>♡ place</th>
+</tr>
+
+<tr>
+<td>💻 <b>Ex Software Developer Intern</b></td>
 <td>SkyLakes Aerospace</td>
 </tr>
 
 <tr>
-<td><b>🎀 Social Media Lead</b></td>
-<td>TechSoc, MSIT</td>
+<td>🧠 <b>Emerging Tech Member</b></td>
+<td>GeekRoom MSIT</td>
 </tr>
 
 <tr>
-<td><b>💻 Summer Trainee</b></td>
-<td>CETPA Foundation X IBM</td>
+<td>✍️ <b>Content Head</b></td>
+<td>TechSoc MSIT</td>
 </tr>
 
 <tr>
-<td><b>🎀 AI/ML Intern</b></td>
-<td>CodeTern</td>
-</tr>
-
-<tr>
-<td><b>⭐ Upcoming STAR Scholar</b></td>
+<td>🌟 <b>Upcoming Scholar 2027</b></td>
 <td>SAP Labs, Bangalore</td>
 </tr>
 </table>
 
 <br>
 
-## 🕸 tech stack
+## 🕸️ tech stack
 
 <table>
 <tr>
-<td width="25%"><b>Languages</b></td>
-<td>Python · C/C++ · SQL · JavaScript · HTML/CSS</td>
+<th width="25%">category</th>
+<th>things i use ♡</th>
 </tr>
 
 <tr>
-<td><b>ML / Data</b></td>
-<td>NumPy · Pandas · Scikit-learn · Matplotlib · Seaborn · Streamlit</td>
+<td>🎀 <b>Languages</b></td>
+<td>
+
+`Python` · `C` · `C++` · `JavaScript` · `SQL`
+
+</td>
 </tr>
 
 <tr>
-<td><b>Frontend and Backend</b></td>
-<td>Flask · React JS · REST APIs · Django · Streamlit</td>
+<td>🧠 <b>ML / Data</b></td>
+<td>
+
+`NumPy` · `Pandas` · `Scikit-learn` · `PyTorch`  
+`Matplotlib` · `Seaborn` · `Streamlit`
+
+</td>
 </tr>
 
 <tr>
-<td><b>Databases</b></td>
-<td>MySQL · PostgreSQL · SQLite</td>
+<td>🌐 <b>Frontend / Backend</b></td>
+<td>
+
+`React` · `Flask` · `Django` · `Node.js` · `REST APIs`
+
+</td>
 </tr>
 
 <tr>
-<td><b>Tools</b></td>
-<td>Git · GitHub · Power BI · Tableau · MS Excel · Jupyter · VS Code · Google Colab</td>
+<td>🗄️ <b>Databases</b></td>
+<td>
+
+`MySQL` · `PostgreSQL` · `SQLite` · `ORM`
+
+</td>
 </tr>
 
 <tr>
-<td><b>Core Concepts</b></td>
-<td>Machine Learning · Data Visualization · RAG · AI · DSA · OOP · DBMS · LLMs · Software Engineering and Testing</td>
+<td>🛠️ <b>Tools</b></td>
+<td>
+
+`Git` · `GitHub` · `Power BI` · `Tableau`  
+`Excel` · `Jupyter` · `VS Code` · `Google Colab`
+
+</td>
 </tr>
-</table>
+
+<tr>
+<td>🕸️ <b>Concepts</b></td>
+<td>
+
+`Machine Learning` · `Data Visualization` · `RAG` · `AI`  
+`DSA` · `OOP` · `DBMS` · `LLMs` · `Software Engineering` · `Testing`
 
 </td>
 </tr>
 </table>
 
----
+</td>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"/>
-
-<br>
-
-# 🌹 currently working on
-
-`♡ FUll Stack Development`
-`♡ End to End Projects`
-`♡ DSA & problem solving`
-
-<br>
-
-`🩸` `✦` `🦇` `★` `🍒` `✦` `🩸`
-
-</div>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-# 🎞 things i've been cooking
+<img src="https://media.giphy.com/media/13HgwGsXF0j8/giphy.gif" width="250"/>
+
+## 🌷 current status
 
 <table>
 <tr>
+<td>💗</td>
+<td><b>learning</b></td>
+<td>AI / ML · LLMs · RAG</td>
+</tr>
 
-<td align="center" width="33%">
+<tr>
+<td>🎀</td>
+<td><b>building</b></td>
+<td>Full-Stack Projects</td>
+</tr>
 
-### 🎬 CineMatch
+<tr>
+<td>🧠</td>
+<td><b>improving</b></td>
+<td>DSA · Backend · Software Engineering</td>
+</tr>
 
-Content-based movie recommendation system
-
-</td>
-
-<td align="center" width="33%">
-
-### 🛡️ FraudGuard
-
-Machine learning fraud detection application
-
-</td>
-
-<td align="center" width="33%">
-
-### 📊 ChurnIQ
-
-Customer churn prediction dashboard
-
-</td>
-
+<tr>
+<td>☕</td>
+<td><b>consuming</b></td>
+<td>an irresponsible amount of coffee</td>
 </tr>
 </table>
 
 <br>
 
-<img src="https://media.giphy.com/media/3o7aD6dQ6w7J4q3k5a/giphy.gif" width="270"/>
+`♡` `✦` `୨୧` `✧` `★` `✦` `♡`
 
 </div>
 
@@ -245,22 +332,28 @@ Customer churn prediction dashboard
 
 <div align="center">
 
-# ☠️ a tiny reminder
+## 💌 one last thing
 
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=19&duration=3500&pause=1100&color=FF5272&center=true&vCenter=true&width=700&lines=pretty+code+%3E+perfect+code+%E2%99%A1;one+commit+at+a+time+%E2%9C%A8;she+believed+she+could%2C+so+she+debugged+%F0%9F%8E%80" />
+<br>
 
-<br><br>
+> **"pretty code > perfect code ♡"**
 
-<!-- <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="230"/> -->
+<br>
 
-<br><br>
-
-`🩸` `♡` `✦` `☠` `★` `🍒` `✧` `🩸`
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=18&duration=3000&pause=1000&color=FF78B7&center=true&vCenter=true&width=650&lines=one+commit+at+a+time+%E2%9C%A7;debugging+is+just+detective+work;coffee+first.+production+later.+%E2%99%A1;everything+will+work+eventually...+probably." />
 
 <br><br>
 
-**୨୧ made with code, caffeine & questionable amounts of determination ୨୧**
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="170"/>
 
+<br><br>
 
+`୨୧` `♡` `✦` `🍓` `🎀` `🌷` `✧` `♡` `୨୧`
+
+<br><br>
+
+### 💗 made with code, caffeine & questionable decisions 💗
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,30:f56fa1,65:c2185b,100:12000b&height=120&section=footer"/>
