@@ -93,7 +93,7 @@
 <tr>
 <td align="center">🎀</td>
 <td><b>WHO</b></td>
-<td>software developer in progress</td>
+<td>software developer</td>
 </tr>
 
 <tr>
