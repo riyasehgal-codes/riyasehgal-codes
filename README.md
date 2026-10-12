@@ -7,10 +7,7 @@
 
 --------
 
-<p align="center">
-  <img width="1233" height="302" alt="image" src="https://github.com/user-attachments/assets/f9583336-004f-4632-9169-cadc2e0c1177" />
 
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Delhi,_India-ff6fb5?style=flat-square&logo=googlemaps&logoColor=white" alt="Delhi, India"/>
